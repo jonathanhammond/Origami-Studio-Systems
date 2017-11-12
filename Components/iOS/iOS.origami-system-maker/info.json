@@ -1,0 +1,10 @@
+{
+  "icons" : {
+
+  },
+  "author" : "Jonathan Hammond",
+  "system" : "ios.origamistudio.jonathanhammond",
+  "name" : "iOS",
+  "description" : "Creation of the stock iOS Origami Studio component",
+  "version" : "0.01"
+}
