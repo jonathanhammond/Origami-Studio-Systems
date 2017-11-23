@@ -12,40 +12,40 @@
     "name" : "Floating Action Button"
   },
   {
-    "export" : true,
+    "export" : false,
     "identifier" : 2342609634176265368,
     "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
     "name" : "JH"
   },
   {
-    "export" : true,
-    "identifier" : 17278744306687526434,
-    "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
-    "name" : "Screen"
-  },
-  {
-    "export" : true,
+    "export" : false,
     "identifier" : 2465756180411711035,
     "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
-    "name" : "Screen"
+    "name" : "Screen Cards"
   },
   {
-    "export" : true,
+    "export" : false,
     "identifier" : 442664068533907834,
     "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
-    "name" : "Screen"
+    "name" : "Screen Scroller"
   },
   {
-    "export" : true,
+    "export" : false,
     "identifier" : 12428178429582544442,
     "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
-    "name" : "Screen"
+    "name" : "Screen Stacked"
+  },
+  {
+    "export" : false,
+    "identifier" : 17278744306687526434,
+    "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
+    "name" : "Screen Tinder"
   },
   {
     "export" : true,
     "identifier" : 4436610415170547548,
     "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
-    "name" : "Scroll Bar View"
+    "name" : "Scroller"
   },
   {
     "export" : true,
@@ -55,9 +55,9 @@
   },
   {
     "export" : true,
-    "identifier" : 11531713777539869636,
+    "identifier" : 15723019306642379572,
     "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
-    "name" : "Swipe View"
+    "name" : "Stacked"
   },
   {
     "export" : true,
@@ -72,7 +72,7 @@
     "name" : "Tinder"
   },
   {
-    "export" : true,
+    "export" : false,
     "identifier" : 5193374208021487233,
     "documentURL" : "file:\/\/\/Users\/jonathanhammond\/Library\/Mobile%20Documents\/com~apple~CloudDocs\/Origami-Studio-Systems\/Components\/iOS\/JonathanHammond\/JonathanHammondOrigamiSystem.origami",
     "name" : "Touch Point"
