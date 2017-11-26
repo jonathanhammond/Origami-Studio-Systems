@@ -6,8 +6,8 @@
     "-large@1x" : "icon-large.png"
   },
   "author" : "Jonathan Hammond",
-  "system" : "com.jonathanhammond.origamiComponents",
+  "system" : "com.jonathanhammond.origamistudio.system",
   "name" : "Jonathan Hammond",
-  "description" : "An example collection of components, built and design by http:\/\/jonathanhammond.design",
+  "description" : "Collection of components built by Jonathan Hammond 2017 http:\/\/jonathanhammond.design",
   "version" : "1.01"
 }
